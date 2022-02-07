@@ -1,2 +1,2 @@
 # predicting-imdb-score
-Using the IMDb5000 Dataset, we model IMDb Score and determine which features are the most important
+Using the IMDb5000 Dataset, we create a predictive model for IMDb Score and determine which features are the most important
